@@ -1,5 +1,5 @@
 # sample-web-2
 
-## responsive web with mobile version
+## responsive mobile version
 
 ## with little java script
